@@ -21,3 +21,13 @@ The OSSD system uses magnetic flux pinning between cryogenic superconductors (YB
 
 ## License
 © 2025 NU·OIR LABS. All rights reserved.
+
+
+
+## Prototype Concept Sketch
+
+![OSSD Wheelchair Concept](Docs/image-1761971228932.jpg)
+
+*CryoCaster-assisted wheelchair utilizing OSSD v2 omnidirectional spheres and LN₂ containment system.  
+Early schematic draft by Loren D. James (Nu-OIR Labs).*
+
